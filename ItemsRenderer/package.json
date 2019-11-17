@@ -1,0 +1,5 @@
+{
+  "name": "@atlaskit/navigation-next/ItemsRenderer",
+  "main": "../dist/cjs/ItemsRenderer.js",
+  "module": "../dist/esm/ItemsRenderer.js"
+}

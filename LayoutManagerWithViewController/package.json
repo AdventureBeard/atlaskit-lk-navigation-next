@@ -1,0 +1,5 @@
+{
+  "name": "@atlaskit/navigation-next/LayoutManagerWithViewController",
+  "main": "../dist/cjs/LayoutManagerWithViewController.js",
+  "module": "../dist/esm/LayoutManagerWithViewController.js"
+}

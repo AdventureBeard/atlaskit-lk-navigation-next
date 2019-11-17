@@ -1,0 +1,5 @@
+{
+  "name": "@atlaskit/navigation-next/SkeletonContainerView",
+  "main": "../dist/cjs/SkeletonContainerView.js",
+  "module": "../dist/esm/SkeletonContainerView.js"
+}

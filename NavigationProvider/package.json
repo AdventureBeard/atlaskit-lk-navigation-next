@@ -1,0 +1,5 @@
+{
+  "name": "@atlaskit/navigation-next/NavigationProvider",
+  "main": "../dist/cjs/NavigationProvider.js",
+  "module": "../dist/esm/NavigationProvider.js"
+}
