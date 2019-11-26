@@ -1,6 +1,6 @@
 {
   "name": "@adventurebeard/atlaskit-lk-navigation-next",
-  "version": "7.1.1",
+  "version": "7.1.2",
   "description": "The Atlassian navigation component.",
   "license": "Apache-2.0",
   "module": "dist/esm/index.js",
